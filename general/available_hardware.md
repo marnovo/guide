@@ -1,21 +1,21 @@
 # Laptops
 
 ## Apple 13-inch MacBook Pro - Space Gray 
-- 2.0GHz dual-core Intel Core i5 processor, Turbo Boost up to 3.1GHz
-- 16GB 1866MHz memory
+- 2.3GHz dual-core Intel Core i5 processor, Turbo Boost up to 3.6GHz
+- 16GB 2133MHz LPDDR3 memory
 - 256GB PCIe-based SSD
-- Intel Iris Graphics 540
+- Intel Iris Graphics 640
 - Two Thunderbolt 3 ports
 - Force Touch trackpad
 - Accessory Kit
 - Backlit Keyboard (English) & User's Guide
 
 ## Dell XPS 13 Developer Edition
-- 7th Generation Intel® Core™ i7 processor
+- 8th Generation Intel(R) Core(TM) i7-8550U Processor
 - Ubuntu Linux 16.04
-- 16GB Memory
+- 16GB Memory LPDDR3 2133MHz
 - 512GB Solid State Drive
-- QHD+ Screen - Touch Enabled
+- 13.3'' 4K Ultra HD (3840 x 2160) InfinityEdge
 
 ## Lenovo x270 12"
 - Intel Core i7-7500U
@@ -27,8 +27,9 @@
 - 3-cell battery (23Wh)
 
 # Keyboards 
-- [Rantopad MXX](https://www.amazon.es/Rantopad-MXX-Mechanical-Gaming-Keyboard/dp/B01JIPTFL2/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1483029977&sr=1-1-catcorr&keywords=rantopad&th=1)
-- Fnatic Gear Rush - [Cherry MX Blue](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01DKZGQWW/ref=sr_1_22?s=electronics&ie=UTF8&qid=1497544576&sr=1-22) | [Cherry MX Brown](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01EI1ZXPI/ref=sr_1_6?s=electronics&ie=UTF8&qid=1488285204&sr=1-6)
+- Fnatic Gear Rush _Silent_ - [Cherry MX Silent Red](https://www.amazon.es/profesional-videojuegos-Fnatic-Rush-Silent/dp/B06VT1VL81/ref=sr_1_2?ie=UTF8&qid=1528471122&sr=8-2&keywords=Fnatic%2BGear%2BSilent&th=1)
+- Rantopad MXX - 🗣[Cherry MX Blue](https://www.amazon.es/Rantopad-MXX-Mechanical-Gaming-Keyboard/dp/B01JIPTFL2/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1483029977&sr=1-1-catcorr&keywords=rantopad&th=1)
+- Fnatic Gear Rush - 🗣[Cherry MX Blue](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01DKZGQWW/ref=sr_1_22?s=electronics&ie=UTF8&qid=1497544576&sr=1-22) | 🗣🗣[Cherry MX Brown](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01EI1ZXPI/ref=sr_1_6?s=electronics&ie=UTF8&qid=1488285204&sr=1-6)
 
 # Mouse
 - [Logitech 910](https://www.amazon.es/gp/product/B00DY50D00/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)

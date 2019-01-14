@@ -3,7 +3,7 @@ At source{d} we're very lucky to count with the backing of an incredible group o
 ### Shareholders
 Shareholder | Percentage
 ------------|------------
-[Sunstone Capital](http://sunstone.eu/portfolio/portfolio-technology-ventures/) | 22,14%
+[Sunstone Capital](http://sunstone.eu/) | 22,14%
 [Otium Venture](http://www.otiumcapital.com/) | 21,68%
 [Jorge Schnura](https://linkedin.com/in/jorgeschnura) | 21,04%
 [Eiso Kant](https://linkedin.com/in/eisokant) | 15,98%
@@ -29,7 +29,10 @@ Board Member | Seat
 [Izzat Abou-Amarah](https://linkedin.com/in/izzat-abou-amarah-7a79691) | Board Member
 
 ### Advisors
-* [Julien Barbier](https://linkedin.com/in/julienbarbier)
+* [Julien Barbier](https://linkedin.com/in/julienbarbier), [@jbarbier](https://github.com/jbarbier)
+* [Patrick Chanezon](https://www.linkedin.com/in/chanezon/), [@chanezon](https://github.com/chanezon)
+* [Joseph Jacks](https://www.linkedin.com/in/josephjacks/), [@josephjacks](https://github.com/josephjacks)
+
 
 ### Prospective Investors
 If you're an investor and are interested in investing in source{d} feel free to do a pull request here!
